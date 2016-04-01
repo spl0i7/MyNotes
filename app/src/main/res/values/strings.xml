@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="delete_all">All stuff gone now</string>
+    <string name="are_you_sure">Are you sure about this?</string>
+    <string name="positive_button">Yes</string>
+    <string name="negative_button">No</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="create_note">Create note</string>
+    <string name="new_note">New Note</string>
+    <string name="note_updaed">Updated the note</string>
+    <string name="save_note">Save note</string>
+    <string name="delete_note">Delete note</string>
+</resources>
